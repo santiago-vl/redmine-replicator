@@ -7,15 +7,14 @@ Do you find tedious adding Redmine time entries manually? Now you can copy them 
 ## Setup
 
 ```
-pip install click
-pip install python-redmine
-python redmine_replicator.py
+$ pip install click
+$ pip install python-redmine
 ```
 
 ## Usage
 ```
-python redmine_replicator.py --help
-python redmine_replicator.py 
+$ python redmine_replicator.py --help
+$ python redmine_replicator.py 
     --apikey '5dX0Z1qa1cCfbZ724zaM143aZ8a7yfu2odp4W12f' 
     --url 'https://redmine.company.com' 
     --project 'project' 
