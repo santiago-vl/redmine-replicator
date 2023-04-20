@@ -26,8 +26,7 @@ $ python redmine_replicator.py
     --keywords 'Planning' 
     --keywords 'Retrospective'
 ```
-
-![Screenshot 2023-03-19 at 01 06 28](https://user-images.githubusercontent.com/17875065/226146669-194be100-8e65-4b9f-ada3-a62dd67a8c63.png)
+<img width="1265" alt="Screenshot 2023-04-20 at 23 19 11" src="https://user-images.githubusercontent.com/17875065/233492345-2b212302-24ee-4cf6-910d-3546946f7062.png">
 
 ## Contributing
 
